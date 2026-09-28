@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm DataFix Studio 👋
 
 ### M.Tech Student | Aspiring Data Scientist & ML Engineer
 
